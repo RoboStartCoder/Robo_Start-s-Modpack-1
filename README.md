@@ -1,7 +1,11 @@
-# Robo_Start-s-Modpack-1
+# Robo_Start's Modpack 1
 Based on **1.20.4** Fabric
 
-This modpack makes playing more conformable and you can connect to any vanilla/plugins servers by using [Via Fabric Plus](https://modrinth.com/mod/viafabricplus)
+This project adds useful client mods that will simplify and make the game more convenient
+
+This modpack will improve your gaming experience and add useful visual ([Blur](https://modrinth.com/mod/blur-fabric), [Visuality](https://modrinth.com/mod/visuality)) and technical ([Block Meter](https://modrinth.com/mod/blockmeter), [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)) features.
+
+You can connect to any vanilla/plugins servers by using [Via Fabric Plus](https://modrinth.com/mod/viafabricplus)
 
 Mods:
 - [Chat Cords](https://modrinth.com/mod/chat-coords)
